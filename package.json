@@ -1,0 +1,28 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "main": "db.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js",
+    "dev": "nodemon server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@google/generative-ai": "^0.24.1",
+    "@langchain/community": "^0.3.42",
+    "@langchain/core": "^0.3.55",
+    "axios": "^1.9.0",
+    "chromadb": "^2.4.3",
+    "cors": "^2.8.5",
+    "dotenv": "^16.5.0",
+    "express": "^5.1.0",
+    "newspaperjs": "^1.0.8",
+    "node-readability": "^3.0.0",
+    "redis": "^5.0.1",
+    "uuid": "^11.1.0"
+  }
+}
