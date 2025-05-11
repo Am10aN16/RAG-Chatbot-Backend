@@ -18,8 +18,7 @@ This backend powers a chatbot that uses Retrieval-Augmented Generation (RAG) to 
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-org/news-rag-chatbot.git
-cd backend
+git clone https://github.com/Am10aN16/RAG-Chatbot-Backend.git
 ```
 
  ### 2. Install Dependencies
